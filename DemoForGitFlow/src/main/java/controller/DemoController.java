@@ -7,4 +7,7 @@ public class DemoController {
 //        login code here
     }
 
+    public  void logout(){
+//        ramen dai is doing logout
+    }
 }
