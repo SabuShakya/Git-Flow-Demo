@@ -10,6 +10,7 @@ public class DemoController {
 
     public void  signup() {
 
+//        fixing signup
     }
 
     public  void logout() {
