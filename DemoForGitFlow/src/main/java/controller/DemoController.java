@@ -17,7 +17,13 @@ public class DemoController {
 
     }
 
-    public void register(){
+
+    public void register() {
         //sabu's portion
+    }
+
+    public void SmritiCode(){
+        //hello
+
     }
 }
