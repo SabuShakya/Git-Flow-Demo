@@ -16,4 +16,8 @@ public class DemoController {
 //        ramen dai is doing logout
 
     }
+
+    public void register(){
+        //sabu's portion
+    }
 }
