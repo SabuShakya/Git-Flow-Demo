@@ -16,9 +16,22 @@ public class DemoController {
 //        ramen dai is doing logout
 
     }
+
     //BIJAY SHRESTHA
     public void doRag(){
         System.out.println("'<div class=\"head-wrap\">");
+    }
+
+
+
+
+    public void register() {
+        //sabu's portion
+    }
+
+    public void SmritiCode(){
+        //hello
+
     }
 
 }
